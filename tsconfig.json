@@ -4,7 +4,10 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/org"
+      "path": "./apps/portfolio"
+    },
+    {
+      "path": "./apps/home"
     }
   ]
 }
